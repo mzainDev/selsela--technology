@@ -357,8 +357,8 @@ export default function CareersPage() {
                                         <button
                                             key={dept}
                                             className={`px-3 py-1 rounded-full text-sm font-medium transition-colors ${activeTab === dept
-                                                    ? "bg-blue-600 text-white"
-                                                    : "bg-gray-200 text-gray-700 hover:bg-gray-300"
+                                                ? "bg-blue-600 text-white"
+                                                : "bg-gray-200 text-gray-700 hover:bg-gray-300"
                                                 }`}
                                             onClick={() => setActiveTab(dept)}
                                         >
@@ -378,8 +378,8 @@ export default function CareersPage() {
                                         <button
                                             key={loc}
                                             className={`px-3 py-1 rounded-full text-sm font-medium transition-colors ${locationFilter === loc
-                                                    ? "bg-blue-600 text-white"
-                                                    : "bg-gray-200 text-gray-700 hover:bg-gray-300"
+                                                ? "bg-blue-600 text-white"
+                                                : "bg-gray-200 text-gray-700 hover:bg-gray-300"
                                                 }`}
                                             onClick={() => setLocationFilter(loc)}
                                         >
@@ -399,8 +399,8 @@ export default function CareersPage() {
                                         <button
                                             key={type}
                                             className={`px-3 py-1 rounded-full text-sm font-medium transition-colors ${typeFilter === type
-                                                    ? "bg-blue-600 text-white"
-                                                    : "bg-gray-200 text-gray-700 hover:bg-gray-300"
+                                                ? "bg-blue-600 text-white"
+                                                : "bg-gray-200 text-gray-700 hover:bg-gray-300"
                                                 }`}
                                             onClick={() => setTypeFilter(type)}
                                         >
