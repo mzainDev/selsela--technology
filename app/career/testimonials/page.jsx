@@ -14,10 +14,10 @@ const Testimonials = () => {
                         {/* Testimonial 1 */}
                         <div className="bg-blue-50 p-6 rounded-lg">
                             <p className="italic mb-6">
-                                "Working at YourCompany has been the highlight of my career. The
+                                Working at YourCompany has been the highlight of my career. The
                                 collaborative environment and opportunity to work on meaningful
                                 projects keeps me engaged and excited to come to work every
-                                day."
+                                day.
                             </p>
                             <div className="flex items-center">
                                 <div className="w-12 h-12 rounded-full overflow-hidden mr-4">
@@ -40,9 +40,9 @@ const Testimonials = () => {
                         {/* Testimonial 2 */}
                         <div className="bg-blue-50 p-6 rounded-lg">
                             <p className="italic mb-6">
-                                "The professional growth I've experienced here has been
+                                The professional growth I've experienced here has been
                                 incredible. My managers have always supported my career goals
-                                and helped me develop new skills."
+                                and helped me develop new skills.
                             </p>
                             <div className="flex items-center">
                                 <div className="w-12 h-12 rounded-full overflow-hidden mr-4">
@@ -65,9 +65,9 @@ const Testimonials = () => {
                         {/* Testimonial 3 */}
                         <div className="bg-blue-50 p-6 rounded-lg">
                             <p className="italic mb-6">
-                                "I appreciate how YourCompany truly values work-life balance.
+                                I appreciate how YourCompany truly values work-life balance.
                                 The flexible schedule allows me to be there for my family while
-                                still doing work that I'm passionate about."
+                                still doing work that I'm passionate about.
                             </p>
                             <div className="flex items-center">
                                 <div className="w-12 h-12 rounded-full overflow-hidden mr-4">

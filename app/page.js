@@ -1,6 +1,8 @@
 import Image from "next/image";
 
+
 export default function Home() {
+  
   return (
     <div>
       <section className="relative bg-gradient-to-r from-blue-600 to-sky-400 text-white py-16 md:py-24 overflow-hidden">
