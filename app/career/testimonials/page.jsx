@@ -22,7 +22,7 @@ const Testimonials = () => {
                             <div className="flex items-center">
                                 <div className="w-12 h-12 rounded-full overflow-hidden mr-4">
                                     <Image
-                                        src="/api/placeholder/48/48"
+                                        src="/sarahjackson.jpg"
                                         alt="Sarah Johnson"
                                         width={48}
                                         height={48}
@@ -47,7 +47,7 @@ const Testimonials = () => {
                             <div className="flex items-center">
                                 <div className="w-12 h-12 rounded-full overflow-hidden mr-4">
                                     <Image
-                                        src="/api/placeholder/48/48"
+                                        src="/michaelchen.jpg"
                                         alt="Michael Chen"
                                         width={48}
                                         height={48}
@@ -72,7 +72,7 @@ const Testimonials = () => {
                             <div className="flex items-center">
                                 <div className="w-12 h-12 rounded-full overflow-hidden mr-4">
                                     <Image
-                                        src="/api/placeholder/48/48"
+                                        src="/elena.jpg"
                                         alt="Elena Rodriguez"
                                         width={48}
                                         height={48}
