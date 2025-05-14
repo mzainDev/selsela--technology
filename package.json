@@ -11,6 +11,7 @@
   "dependencies": {
     "framer-motion": "^12.10.5",
     "next": "15.3.2",
+    "next-image-export-optimizer": "^1.19.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "sweetalert": "^2.1.2"

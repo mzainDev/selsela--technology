@@ -50,7 +50,7 @@ export default function Home() {
               <div className="absolute -bottom-4 -left-4 w-72 h-72 bg-yellow-300 rounded-lg"></div>
               <div className="relative w-72 h-72 bg-white rounded-lg overflow-hidden">
                 <Image
-                  src="/bannerT.png"
+                  src="images/bannerT.png"
                   alt="Team collaboration"
                   width={300}
                   height={300}

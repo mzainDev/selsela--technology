@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import { motion } from 'framer-motion'
+import ExportedImage from 'next-image-export-optimizer'
 
 const CompanyIntro = () => {
     // Define animation variants
@@ -89,7 +90,12 @@ const CompanyIntro = () => {
                         >
                             <div className="absolute -top-4 -left-4 md:-top-6 md:-left-6 w-full h-full bg-[#bfdbfe] rounded-lg transform rotate-3"></div>
                             <div className="relative rounded-lg overflow-hidden shadow-xl">
-                                <Image src="/aboutT1.png" alt="Our workplace culture" width={400} height={300} className="w-full h-auto" />
+                                <ExportedImage 
+                                src="images/aboutT1.png" 
+                                alt="Our workplace culture" 
+                                width={400} 
+                                height={300} 
+                                className="w-full h-auto" />
                             </div>
                         </motion.div>
                     </div>
